@@ -17,11 +17,8 @@ namespace WindowsFormsApp1
         static void Main()
         {
 
-            int x5 = 5;
-            int x1 = 1;
-            int x2 = 2;
-            int x3 = 3;
-            int x4 = 4;
+
+
             string Y = "5";
             string name = "MMMMMMMMMMMMMMMMMMMMMMMM";
         }
