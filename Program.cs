@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
         [STAThread]
         static void Main()
         {
-            int x = 5;
+            int Y = 5;
            string name   ="MMMMMMMMMMMMMMMMMMMMMMMM";
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
