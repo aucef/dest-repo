@@ -17,7 +17,6 @@ namespace WindowsFormsApp1
         static void Main()
         {
             int x = 5;
-            int x1 = 9;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
