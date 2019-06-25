@@ -18,15 +18,6 @@ namespace WindowsFormsApp1
         {
             string Y = "5";
             string name = "MMMMMMMMMMMMMMMMMMMMMMMM";
-
-
-
-
-
-
-
-
-
         }
     }
    
