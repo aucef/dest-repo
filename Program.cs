@@ -1,4 +1,4 @@
-﻿using System;
+﻿/uusing System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,12 +16,13 @@ namespace WindowsFormsApp1
         [STAThread]
         static void Main()
         {
+
+
             int x1 = 1;
             int x2 = 2;
             int x3 = 3;
             int x4 = 4;
-
-            
+            int x5 =5;           
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
