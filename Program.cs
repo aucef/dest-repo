@@ -16,6 +16,7 @@ namespace WindowsFormsApp1
         [STAThread]
         static void Main()
         {
+            string B = "It will work!!";
             string Y = "5";
             string name = "MMMMMMMMMMMMMMMMMMMMMMMM";
         }
