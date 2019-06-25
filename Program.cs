@@ -17,8 +17,6 @@ namespace WindowsFormsApp1
         static void Main()
         {
             
-
-
             int x1 = 1;
             int x2 = 2;
             int x3 = 3;
